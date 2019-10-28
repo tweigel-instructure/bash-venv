@@ -1,5 +1,5 @@
 # bash-venv
-Some automation functions for Python3 virtualenv in bash. Primarily written in a MacOS environment, reasonably tested in a Linux environment.
+Some automation functions for Python3 virtualenv in bash. Primarily written in a MacOS environment, reasonably tested in a Linux environment. To use it, stick `venv.sh` somewhere you want to keep it forever, and then put `source FILE_LOCATION` in your `.bashrc` or `.bash_profile`. Or you can copy all of the text in `venv.sh` into your bash profile file.
 
 Important caveats:
 
